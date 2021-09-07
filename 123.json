@@ -1,0 +1,1903 @@
+{
+    "Site": 70,
+    "Course": 2,
+    "Version": 120985,
+    "DescriptionFromDatabase": true,
+    "RotationLastEvaluationInUtc": "2021-06-07T05:19:56",
+    "RotationNextEvaluationInUtc": "2021-06-08T05:00:00",
+    "IsOneDayOverride": false,
+    "RotationSets": [
+        {
+            "Course": 2,
+            "CurrentRotation": 5,
+            "FirstHole": 1,
+            "LastHole": 18,
+            "Type": "Daily",
+            "Name": "Daily Pin Rotation",
+            "UserFigure": "?",
+            "ActiveSet": true,
+            "RotationSetType": 1,
+            "Rotations": [
+                {
+                    "RotationNumber": 1,
+                    "RotationType": 1,
+                    "DisplayName": "Daily Pin Rotation 1",
+                    "Marker": "1",
+                    "Active": false
+                },
+                {
+                    "RotationNumber": 2,
+                    "RotationType": 1,
+                    "DisplayName": "Daily Pin Rotation 2",
+                    "Marker": "2",
+                    "Active": false
+                },
+                {
+                    "RotationNumber": 3,
+                    "RotationType": 1,
+                    "DisplayName": "Daily Pin Rotation 3",
+                    "Marker": "3",
+                    "Active": false
+                },
+                {
+                    "RotationNumber": 4,
+                    "RotationType": 1,
+                    "DisplayName": "Daily Pin Rotation 4",
+                    "Marker": "4",
+                    "Active": false
+                },
+                {
+                    "RotationNumber": 5,
+                    "RotationType": 1,
+                    "DisplayName": "Daily Pin Rotation 5",
+                    "Marker": "5",
+                    "Active": true
+                },
+                {
+                    "RotationNumber": 6,
+                    "RotationType": 1,
+                    "DisplayName": "Daily Pin Rotation 6",
+                    "Marker": "6",
+                    "Active": false
+                }
+            ]
+        }
+    ],
+    "ApproachViews": [
+        {
+            "Course": 2,
+            "Hole": 1,
+            "HoleDataId": 1108,
+            "PoiData": [
+                {
+                    "Name": "CenterOfGreen",
+                    "Latitude": 32.885780334472656,
+                    "Longitude": -79.89959716796875,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "LeftOfGreen",
+                    "Latitude": 32.885993938694781,
+                    "Longitude": -79.8995898114085,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "BackOfGreen1",
+                    "Latitude": 32.885993938694781,
+                    "Longitude": -79.8995898114085,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "RightOfGreen",
+                    "Latitude": 32.885595870606188,
+                    "Longitude": -79.899630328607032,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "FrontOfGreen",
+                    "Latitude": 32.885595870606188,
+                    "Longitude": -79.899630328607032,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                }
+            ],
+            "PinPlacements": [
+                {
+                    "Name": "1",
+                    "Latitude": 32.885707163361822,
+                    "Longitude": -79.8996672081836,
+                    "Usage": 1,
+                    "X": 447,
+                    "Y": 329
+                },
+                {
+                    "Name": "2",
+                    "Latitude": 32.885708314746758,
+                    "Longitude": -79.899570050421246,
+                    "Usage": 1,
+                    "X": 489,
+                    "Y": 279
+                },
+                {
+                    "Name": "3",
+                    "Latitude": 32.885850165065357,
+                    "Longitude": -79.899580806918863,
+                    "Usage": 1,
+                    "X": 399,
+                    "Y": 211
+                },
+                {
+                    "Name": "4",
+                    "Latitude": 32.885774747100058,
+                    "Longitude": -79.899683184063392,
+                    "Usage": 1,
+                    "X": 400,
+                    "Y": 302
+                },
+                {
+                    "Name": "5",
+                    "Latitude": 32.885931658829016,
+                    "Longitude": -79.899582469852433,
+                    "Usage": 1,
+                    "X": 350,
+                    "Y": 170
+                },
+                {
+                    "Name": "6",
+                    "Latitude": 32.885780991688065,
+                    "Longitude": -79.8995420967785,
+                    "Usage": 1,
+                    "X": 457,
+                    "Y": 227
+                }
+            ],
+            "WorldToImageTransform": "436392.581612123,-503182.074104834,-597522.150211233,-518906.513921394,54518007.4001705,-23139143.8604288",
+            "GreenUpperLeft": "-79.8995777535303,32.8860518752605",
+            "GreenLowerRight": "-79.8996198531165,32.8855487221201"
+        },
+        {
+            "Course": 2,
+            "Hole": 2,
+            "HoleDataId": 1109,
+            "PoiData": [
+                {
+                    "Name": "CenterOfGreen",
+                    "Latitude": 32.883056640625,
+                    "Longitude": -79.8962631225586,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "LeftOfGreen",
+                    "Latitude": 32.88316647888189,
+                    "Longitude": -79.896105890129519,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "BackOfGreen1",
+                    "Latitude": 32.88316647888189,
+                    "Longitude": -79.896105890129519,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "RightOfGreen",
+                    "Latitude": 32.882957308553685,
+                    "Longitude": -79.896446027137458,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "FrontOfGreen",
+                    "Latitude": 32.882957308553685,
+                    "Longitude": -79.896446027137458,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                }
+            ],
+            "PinPlacements": [
+                {
+                    "Name": "1",
+                    "Latitude": 32.882967913528347,
+                    "Longitude": -79.896271786893408,
+                    "Usage": 1,
+                    "X": 481,
+                    "Y": 190
+                },
+                {
+                    "Name": "2",
+                    "Latitude": 32.88305313028178,
+                    "Longitude": -79.896198738173624,
+                    "Usage": 1,
+                    "X": 399,
+                    "Y": 157
+                },
+                {
+                    "Name": "3",
+                    "Latitude": 32.883078362454874,
+                    "Longitude": -79.896347698622662,
+                    "Usage": 1,
+                    "X": 403,
+                    "Y": 265
+                },
+                {
+                    "Name": "4",
+                    "Latitude": 32.883100063960718,
+                    "Longitude": -79.89621709964176,
+                    "Usage": 1,
+                    "X": 363,
+                    "Y": 179
+                },
+                {
+                    "Name": "5",
+                    "Latitude": 32.88316894682761,
+                    "Longitude": -79.896328720152923,
+                    "Usage": 1,
+                    "X": 326,
+                    "Y": 270
+                },
+                {
+                    "Name": "6",
+                    "Latitude": 32.882978012476627,
+                    "Longitude": -79.896198712758036,
+                    "Usage": 1,
+                    "X": 460,
+                    "Y": 142
+                }
+            ],
+            "WorldToImageTransform": "-168359.240479783,-692299.390809265,-818838.124134045,201640.599261359,13475032.9516975,-61942491.3890518",
+            "GreenUpperLeft": "-79.8960419373577,32.8831741973804",
+            "GreenLowerRight": "-79.8964954035327,32.8829413761265"
+        },
+        {
+            "Course": 2,
+            "Hole": 3,
+            "HoleDataId": 1110,
+            "PoiData": [
+                {
+                    "Name": "CenterOfGreen",
+                    "Latitude": 32.878963470458984,
+                    "Longitude": -79.900543212890625,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "LeftOfGreen",
+                    "Latitude": 32.878788457268158,
+                    "Longitude": -79.900503171565362,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "BackOfGreen1",
+                    "Latitude": 32.878788457268158,
+                    "Longitude": -79.900503171565362,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "RightOfGreen",
+                    "Latitude": 32.879161277287913,
+                    "Longitude": -79.9005471155629,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "FrontOfGreen",
+                    "Latitude": 32.879161277287913,
+                    "Longitude": -79.9005471155629,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                }
+            ],
+            "PinPlacements": [
+                {
+                    "Name": "1",
+                    "Latitude": 32.878955046674228,
+                    "Longitude": -79.900605079826533,
+                    "Usage": 1,
+                    "X": 429,
+                    "Y": 230
+                },
+                {
+                    "Name": "2",
+                    "Latitude": 32.879090514441295,
+                    "Longitude": -79.900552474285661,
+                    "Usage": 1,
+                    "X": 459,
+                    "Y": 331
+                },
+                {
+                    "Name": "3",
+                    "Latitude": 32.8789633289632,
+                    "Longitude": -79.900509356058222,
+                    "Usage": 1,
+                    "X": 382,
+                    "Y": 269
+                },
+                {
+                    "Name": "4",
+                    "Latitude": 32.878875119180748,
+                    "Longitude": -79.900478031592911,
+                    "Usage": 1,
+                    "X": 329,
+                    "Y": 226
+                },
+                {
+                    "Name": "5",
+                    "Latitude": 32.878902031671061,
+                    "Longitude": -79.900593146397711,
+                    "Usage": 1,
+                    "X": 400,
+                    "Y": 201
+                },
+                {
+                    "Name": "6",
+                    "Latitude": 32.879054007149513,
+                    "Longitude": -79.900484019003272,
+                    "Usage": 1,
+                    "X": 408,
+                    "Y": 333
+                }
+            ],
+            "WorldToImageTransform": "-520051.671624379,355258.497737388,424409.984879982,612514.651272067,-55506171.3537865,8246756.94036911",
+            "GreenUpperLeft": "-79.900474677957,32.8787347744751",
+            "GreenLowerRight": "-79.900573829398,32.8791961573123"
+        },
+        {
+            "Course": 2,
+            "Hole": 4,
+            "HoleDataId": 1111,
+            "PoiData": [
+                {
+                    "Name": "CenterOfGreen",
+                    "Latitude": 32.876678466796875,
+                    "Longitude": -79.900833129882813,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "LeftOfGreen",
+                    "Latitude": 32.876516298906409,
+                    "Longitude": -79.900737840661392,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "BackOfGreen1",
+                    "Latitude": 32.876516298906409,
+                    "Longitude": -79.900737840661392,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "RightOfGreen",
+                    "Latitude": 32.876850089020337,
+                    "Longitude": -79.90093109532539,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "FrontOfGreen",
+                    "Latitude": 32.876850089020337,
+                    "Longitude": -79.90093109532539,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                }
+            ],
+            "PinPlacements": [
+                {
+                    "Name": "1",
+                    "Latitude": 32.876740090813406,
+                    "Longitude": -79.9007493949941,
+                    "Usage": 1,
+                    "X": 314,
+                    "Y": 307
+                },
+                {
+                    "Name": "2",
+                    "Latitude": 32.876674530385273,
+                    "Longitude": -79.900908542249454,
+                    "Usage": 1,
+                    "X": 402,
+                    "Y": 231
+                },
+                {
+                    "Name": "3",
+                    "Latitude": 32.876601827464974,
+                    "Longitude": -79.900780518636054,
+                    "Usage": 1,
+                    "X": 306,
+                    "Y": 197
+                },
+                {
+                    "Name": "4",
+                    "Latitude": 32.876786487379889,
+                    "Longitude": -79.900882074561636,
+                    "Usage": 1,
+                    "X": 407,
+                    "Y": 320
+                },
+                {
+                    "Name": "5",
+                    "Latitude": 32.876704174717347,
+                    "Longitude": -79.90079737613722,
+                    "Usage": 1,
+                    "X": 337,
+                    "Y": 272
+                },
+                {
+                    "Name": "6",
+                    "Latitude": 32.876592535361432,
+                    "Longitude": -79.900902353599889,
+                    "Usage": 1,
+                    "X": 382,
+                    "Y": 170
+                }
+            ],
+            "WorldToImageTransform": "-637131.656313117,167300.752817448,197051.027725127,757660.880569182,-57385378.5349979,-11541657.1754078",
+            "GreenUpperLeft": "-79.900692252026,32.8764586736413",
+            "GreenLowerRight": "-79.9009890068534,32.8768844941999"
+        },
+        {
+            "Course": 2,
+            "Hole": 5,
+            "HoleDataId": 1112,
+            "PoiData": [
+                {
+                    "Name": "CenterOfGreen",
+                    "Latitude": 32.879222869873047,
+                    "Longitude": -79.897842407226563,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "LeftOfGreen",
+                    "Latitude": 32.879398219147753,
+                    "Longitude": -79.8979095725575,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "BackOfGreen1",
+                    "Latitude": 32.879398219147753,
+                    "Longitude": -79.8979095725575,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "RightOfGreen",
+                    "Latitude": 32.879035637670782,
+                    "Longitude": -79.897813343779063,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "FrontOfGreen",
+                    "Latitude": 32.879035637670782,
+                    "Longitude": -79.897813343779063,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                }
+            ],
+            "PinPlacements": [
+                {
+                    "Name": "1",
+                    "Latitude": 32.879298627865182,
+                    "Longitude": -79.897822734772774,
+                    "Usage": 1,
+                    "X": 400,
+                    "Y": 197
+                },
+                {
+                    "Name": "2",
+                    "Latitude": 32.879325432127438,
+                    "Longitude": -79.8979089672788,
+                    "Usage": 1,
+                    "X": 331,
+                    "Y": 216
+                },
+                {
+                    "Name": "3",
+                    "Latitude": 32.879127471369642,
+                    "Longitude": -79.897875807807182,
+                    "Usage": 1,
+                    "X": 460,
+                    "Y": 348
+                },
+                {
+                    "Name": "4",
+                    "Latitude": 32.879190076761915,
+                    "Longitude": -79.8977714149076,
+                    "Usage": 1,
+                    "X": 491,
+                    "Y": 254
+                },
+                {
+                    "Name": "5",
+                    "Latitude": 32.87923832864935,
+                    "Longitude": -79.897727731603268,
+                    "Usage": 1,
+                    "X": 492,
+                    "Y": 198
+                },
+                {
+                    "Name": "6",
+                    "Latitude": 32.879171219412257,
+                    "Longitude": -79.897906497810084,
+                    "Usage": 1,
+                    "X": 417,
+                    "Y": 329
+                }
+            ],
+            "WorldToImageTransform": "628488.503771391,-456000.743426798,-546511.74240625,-741334.541945157,68184185.4387782,-12058709.9468247",
+            "GreenUpperLeft": "-79.8979052019895,32.879451048631",
+            "GreenLowerRight": "-79.8978217459222,32.878986486948"
+        },
+        {
+            "Course": 2,
+            "Hole": 6,
+            "HoleDataId": 1113,
+            "PoiData": [
+                {
+                    "Name": "CenterOfGreen",
+                    "Latitude": 32.874588012695312,
+                    "Longitude": -79.899696350097656,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "LeftOfGreen",
+                    "Latitude": 32.874434963190964,
+                    "Longitude": -79.899655879642651,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "BackOfGreen1",
+                    "Latitude": 32.874434963190964,
+                    "Longitude": -79.899655879642651,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "RightOfGreen",
+                    "Latitude": 32.874773617511472,
+                    "Longitude": -79.899748266059817,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "FrontOfGreen",
+                    "Latitude": 32.874773617511472,
+                    "Longitude": -79.899748266059817,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                }
+            ],
+            "PinPlacements": [
+                {
+                    "Name": "1",
+                    "Latitude": 32.874518114891337,
+                    "Longitude": -79.8997205721156,
+                    "Usage": 1,
+                    "X": 418,
+                    "Y": 234
+                },
+                {
+                    "Name": "2",
+                    "Latitude": 32.874681008145942,
+                    "Longitude": -79.899640208682513,
+                    "Usage": 1,
+                    "X": 435,
+                    "Y": 369
+                },
+                {
+                    "Name": "3",
+                    "Latitude": 32.874587967354877,
+                    "Longitude": -79.899705001084214,
+                    "Usage": 1,
+                    "X": 436,
+                    "Y": 286
+                },
+                {
+                    "Name": "4",
+                    "Latitude": 32.874577776222189,
+                    "Longitude": -79.8997859701725,
+                    "Usage": 1,
+                    "X": 478,
+                    "Y": 253
+                },
+                {
+                    "Name": "5",
+                    "Latitude": 32.874609296549444,
+                    "Longitude": -79.899621117806362,
+                    "Usage": 1,
+                    "X": 396,
+                    "Y": 327
+                },
+                {
+                    "Name": "6",
+                    "Latitude": 32.874646289042843,
+                    "Longitude": -79.899779221724913,
+                    "Usage": 1,
+                    "X": 500,
+                    "Y": 302
+                }
+            ],
+            "WorldToImageTransform": "-568967.422914295,319973.671518538,379311.615275305,673826.908259336,-57929606.2107789,3414306.01677967",
+            "GreenUpperLeft": "-79.8996381638035,32.8744059079144",
+            "GreenLowerRight": "-79.8997676263437,32.8747966671547"
+        },
+        {
+            "Course": 2,
+            "Hole": 7,
+            "HoleDataId": 1114,
+            "PoiData": [
+                {
+                    "Name": "CenterOfGreen",
+                    "Latitude": 32.8778190612793,
+                    "Longitude": -79.896614074707031,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "LeftOfGreen",
+                    "Latitude": 32.877999427762553,
+                    "Longitude": -79.8966830656627,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "BackOfGreen1",
+                    "Latitude": 32.877999427762553,
+                    "Longitude": -79.8966830656627,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "RightOfGreen",
+                    "Latitude": 32.877634572272889,
+                    "Longitude": -79.896560426109914,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "FrontOfGreen",
+                    "Latitude": 32.877634572272889,
+                    "Longitude": -79.896560426109914,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                }
+            ],
+            "PinPlacements": [
+                {
+                    "Name": "1",
+                    "Latitude": 32.877755411609435,
+                    "Longitude": -79.8966215519382,
+                    "Usage": 1,
+                    "X": 463,
+                    "Y": 353
+                },
+                {
+                    "Name": "2",
+                    "Latitude": 32.877871538214535,
+                    "Longitude": -79.896654643772735,
+                    "Usage": 1,
+                    "X": 387,
+                    "Y": 282
+                },
+                {
+                    "Name": "3",
+                    "Latitude": 32.877855792133374,
+                    "Longitude": -79.89653216880177,
+                    "Usage": 1,
+                    "X": 471,
+                    "Y": 244
+                },
+                {
+                    "Name": "4",
+                    "Latitude": 32.877792863557616,
+                    "Longitude": -79.896693163764681,
+                    "Usage": 1,
+                    "X": 401,
+                    "Y": 355
+                },
+                {
+                    "Name": "5",
+                    "Latitude": 32.877797821316285,
+                    "Longitude": -79.8965072916177,
+                    "Usage": 1,
+                    "X": 513,
+                    "Y": 277
+                },
+                {
+                    "Name": "6",
+                    "Latitude": 32.877936343132525,
+                    "Longitude": -79.89667639614872,
+                    "Usage": 1,
+                    "X": 343,
+                    "Y": 243
+                }
+            ],
+            "WorldToImageTransform": "617496.265697642,-399875.731984204,-474367.992189802,-732706.431063159,64932483.2655126,-7858623.73192627",
+            "GreenUpperLeft": "-79.8966751690165,32.8780591879944",
+            "GreenLowerRight": "-79.8965571291922,32.877594331071"
+        },
+        {
+            "Course": 2,
+            "Hole": 8,
+            "HoleDataId": 1115,
+            "PoiData": [
+                {
+                    "Name": "CenterOfGreen",
+                    "Latitude": 32.877777099609375,
+                    "Longitude": -79.892982482910156,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "LeftOfGreen",
+                    "Latitude": 32.877932613143805,
+                    "Longitude": -79.892835777810589,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "BackOfGreen1",
+                    "Latitude": 32.877932613143805,
+                    "Longitude": -79.892835777810589,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "RightOfGreen",
+                    "Latitude": 32.877629324473524,
+                    "Longitude": -79.893111367680362,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "FrontOfGreen",
+                    "Latitude": 32.877629324473524,
+                    "Longitude": -79.893111367680362,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                }
+            ],
+            "PinPlacements": [
+                {
+                    "Name": "1",
+                    "Latitude": 32.877836932436338,
+                    "Longitude": -79.893024528070072,
+                    "Usage": 1,
+                    "X": 373,
+                    "Y": 276
+                },
+                {
+                    "Name": "2",
+                    "Latitude": 32.877886310462614,
+                    "Longitude": -79.892868068454746,
+                    "Usage": 1,
+                    "X": 349,
+                    "Y": 166
+                },
+                {
+                    "Name": "3",
+                    "Latitude": 32.877724894128868,
+                    "Longitude": -79.893077179020949,
+                    "Usage": 1,
+                    "X": 457,
+                    "Y": 325
+                },
+                {
+                    "Name": "4",
+                    "Latitude": 32.877773916928319,
+                    "Longitude": -79.8929191223229,
+                    "Usage": 1,
+                    "X": 434,
+                    "Y": 214
+                },
+                {
+                    "Name": "5",
+                    "Latitude": 32.877842607041529,
+                    "Longitude": -79.892938185732461,
+                    "Usage": 1,
+                    "X": 377,
+                    "Y": 218
+                },
+                {
+                    "Name": "6",
+                    "Latitude": 32.877694441327868,
+                    "Longitude": -79.892980308689189,
+                    "Usage": 1,
+                    "X": 491,
+                    "Y": 264
+                }
+            ],
+            "WorldToImageTransform": "100540.723550244,-667868.707002498,-797391.945393028,-117739.772054184,34249397.7551975,-49486745.4749289",
+            "GreenUpperLeft": "-79.892804478591,32.877959708716",
+            "GreenLowerRight": "-79.8931235333407,32.8775989879119"
+        },
+        {
+            "Course": 2,
+            "Hole": 9,
+            "HoleDataId": 1116,
+            "PoiData": [
+                {
+                    "Name": "CenterOfGreen",
+                    "Latitude": 32.880077362060547,
+                    "Longitude": -79.892166137695312,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "LeftOfGreen",
+                    "Latitude": 32.880237281384638,
+                    "Longitude": -79.892384301875424,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "BackOfGreen1",
+                    "Latitude": 32.880237281384638,
+                    "Longitude": -79.892384301875424,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "RightOfGreen",
+                    "Latitude": 32.879943917486173,
+                    "Longitude": -79.891991736553152,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "FrontOfGreen",
+                    "Latitude": 32.879943917486173,
+                    "Longitude": -79.891991736553152,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                }
+            ],
+            "PinPlacements": [
+                {
+                    "Name": "1",
+                    "Latitude": 32.880195792074808,
+                    "Longitude": -79.892159887474335,
+                    "Usage": 1,
+                    "X": 372,
+                    "Y": 233
+                },
+                {
+                    "Name": "2",
+                    "Latitude": 32.879990289068587,
+                    "Longitude": -79.892126916584218,
+                    "Usage": 1,
+                    "X": 388,
+                    "Y": 383
+                },
+                {
+                    "Name": "3",
+                    "Latitude": 32.880034333311279,
+                    "Longitude": -79.892073376452061,
+                    "Usage": 1,
+                    "X": 421,
+                    "Y": 352
+                },
+                {
+                    "Name": "4",
+                    "Latitude": 32.880174474127337,
+                    "Longitude": -79.892226513717773,
+                    "Usage": 1,
+                    "X": 331,
+                    "Y": 247
+                },
+                {
+                    "Name": "5",
+                    "Latitude": 32.879974357033511,
+                    "Longitude": -79.8922192066075,
+                    "Usage": 1,
+                    "X": 330,
+                    "Y": 393
+                },
+                {
+                    "Name": "6",
+                    "Latitude": 32.880029712863411,
+                    "Longitude": -79.892255887259367,
+                    "Usage": 1,
+                    "X": 309,
+                    "Y": 352
+                }
+            ],
+            "WorldToImageTransform": "614551.930078838,16736.7571955266,22867.0485600762,-729722.613684714,48346379.982507,25330790.980041",
+            "GreenUpperLeft": "-79.8924162274953,32.8802792298761",
+            "GreenLowerRight": "-79.8919467690452,32.8799063183167"
+        },
+        {
+            "Course": 2,
+            "Hole": 10,
+            "HoleDataId": 1117,
+            "PoiData": [
+                {
+                    "Name": "CenterOfGreen",
+                    "Latitude": 32.881984710693359,
+                    "Longitude": -79.888999938964844,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "LeftOfGreen",
+                    "Latitude": 32.882161268972482,
+                    "Longitude": -79.888901275900423,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "BackOfGreen1",
+                    "Latitude": 32.882161268972482,
+                    "Longitude": -79.888901275900423,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "RightOfGreen",
+                    "Latitude": 32.881856076283412,
+                    "Longitude": -79.889138366284229,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "FrontOfGreen",
+                    "Latitude": 32.881856076283412,
+                    "Longitude": -79.889138366284229,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                }
+            ],
+            "PinPlacements": [
+                {
+                    "Name": "1",
+                    "Latitude": 32.882022081276475,
+                    "Longitude": -79.889146870830416,
+                    "Usage": 1,
+                    "X": 360,
+                    "Y": 347
+                },
+                {
+                    "Name": "2",
+                    "Latitude": 32.8820013267189,
+                    "Longitude": -79.889018418394969,
+                    "Usage": 1,
+                    "X": 410,
+                    "Y": 277
+                },
+                {
+                    "Name": "3",
+                    "Latitude": 32.882057039980367,
+                    "Longitude": -79.888911311768126,
+                    "Usage": 1,
+                    "X": 399,
+                    "Y": 196
+                },
+                {
+                    "Name": "4",
+                    "Latitude": 32.88195310066132,
+                    "Longitude": -79.8891215756753,
+                    "Usage": 1,
+                    "X": 416,
+                    "Y": 354
+                },
+                {
+                    "Name": "5",
+                    "Latitude": 32.8819364623297,
+                    "Longitude": -79.888994918278385,
+                    "Usage": 1,
+                    "X": 462,
+                    "Y": 284
+                },
+                {
+                    "Name": "6",
+                    "Latitude": 32.881997173145848,
+                    "Longitude": -79.8888738579562,
+                    "Usage": 1,
+                    "X": 452,
+                    "Y": 193
+                }
+            ],
+            "WorldToImageTransform": "272283.49620426,-595967.900983765,-706640.502056919,-322657.780788096,44988624.8729314,-37001379.7221607",
+            "GreenUpperLeft": "-79.8888850772376,32.882262941941",
+            "GreenLowerRight": "-79.8891206030106,32.8817303774004"
+        },
+        {
+            "Course": 2,
+            "Hole": 11,
+            "HoleDataId": 1118,
+            "PoiData": [
+                {
+                    "Name": "CenterOfGreen",
+                    "Latitude": 32.883964538574219,
+                    "Longitude": -79.894973754882813,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "LeftOfGreen",
+                    "Latitude": 32.883891903125715,
+                    "Longitude": -79.895146988973636,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "BackOfGreen1",
+                    "Latitude": 32.883891903125715,
+                    "Longitude": -79.895146988973636,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "RightOfGreen",
+                    "Latitude": 32.88405736691351,
+                    "Longitude": -79.894768304803151,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "FrontOfGreen",
+                    "Latitude": 32.88405736691351,
+                    "Longitude": -79.894768304803151,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                }
+            ],
+            "PinPlacements": [
+                {
+                    "Name": "1",
+                    "Latitude": 32.88406194372466,
+                    "Longitude": -79.8949244969665,
+                    "Usage": 1,
+                    "X": 549,
+                    "Y": 276
+                },
+                {
+                    "Name": "2",
+                    "Latitude": 32.883988645254441,
+                    "Longitude": -79.895031280397873,
+                    "Usage": 1,
+                    "X": 458,
+                    "Y": 224
+                },
+                {
+                    "Name": "3",
+                    "Latitude": 32.883973192065554,
+                    "Longitude": -79.894855651346319,
+                    "Usage": 1,
+                    "X": 492,
+                    "Y": 353
+                },
+                {
+                    "Name": "4",
+                    "Latitude": 32.883987080861971,
+                    "Longitude": -79.894967116572545,
+                    "Usage": 1,
+                    "X": 474,
+                    "Y": 270
+                },
+                {
+                    "Name": "5",
+                    "Latitude": 32.88390643571141,
+                    "Longitude": -79.895057884286942,
+                    "Usage": 1,
+                    "X": 382,
+                    "Y": 231
+                },
+                {
+                    "Name": "6",
+                    "Latitude": 32.883921745928063,
+                    "Longitude": -79.894896285916246,
+                    "Usage": 1,
+                    "X": 438,
+                    "Y": 341
+                }
+            ],
+            "WorldToImageTransform": "269285.199274969,706995.710803687,842602.075151714,-320436.904895669,-6193109.55216404,67022911.8161285",
+            "GreenUpperLeft": "-79.8952191794878,32.8838689061298",
+            "GreenLowerRight": "-79.8947020248222,32.8840635376401"
+        },
+        {
+            "Course": 2,
+            "Hole": 12,
+            "HoleDataId": 1119,
+            "PoiData": [
+                {
+                    "Name": "CenterOfGreen",
+                    "Latitude": 32.885494232177734,
+                    "Longitude": -79.89483642578125,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "LeftOfGreen",
+                    "Latitude": 32.885668968944636,
+                    "Longitude": -79.894839515232576,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "BackOfGreen1",
+                    "Latitude": 32.885668968944636,
+                    "Longitude": -79.894839515232576,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "RightOfGreen",
+                    "Latitude": 32.885302902492448,
+                    "Longitude": -79.8948201421453,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "FrontOfGreen",
+                    "Latitude": 32.885302902492448,
+                    "Longitude": -79.8948201421453,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                }
+            ],
+            "PinPlacements": [
+                {
+                    "Name": "1",
+                    "Latitude": 32.885577932776087,
+                    "Longitude": -79.894785618518114,
+                    "Usage": 1,
+                    "X": 446,
+                    "Y": 196
+                },
+                {
+                    "Name": "2",
+                    "Latitude": 32.885444579337452,
+                    "Longitude": -79.894969352193442,
+                    "Usage": 1,
+                    "X": 413,
+                    "Y": 334
+                },
+                {
+                    "Name": "3",
+                    "Latitude": 32.885416183000437,
+                    "Longitude": -79.894794232310133,
+                    "Usage": 1,
+                    "X": 508,
+                    "Y": 290
+                },
+                {
+                    "Name": "4",
+                    "Latitude": 32.885479769746389,
+                    "Longitude": -79.894746498219561,
+                    "Usage": 1,
+                    "X": 505,
+                    "Y": 238
+                },
+                {
+                    "Name": "5",
+                    "Latitude": 32.885469017572753,
+                    "Longitude": -79.894867967736189,
+                    "Usage": 1,
+                    "X": 451,
+                    "Y": 285
+                },
+                {
+                    "Name": "6",
+                    "Latitude": 32.885546578683261,
+                    "Longitude": -79.894888788252118,
+                    "Usage": 1,
+                    "X": 410,
+                    "Y": 249
+                }
+            ],
+            "WorldToImageTransform": "478695.085450001,-338177.9669379,-405850.18114223,-566676.59324678,51592305.4234721,-8382972.99290564",
+            "GreenUpperLeft": "-79.8948731927252,32.88573295791",
+            "GreenLowerRight": "-79.8947790410718,32.8852547407595"
+        },
+        {
+            "Course": 2,
+            "Hole": 13,
+            "HoleDataId": 1120,
+            "PoiData": [
+                {
+                    "Name": "CenterOfGreen",
+                    "Latitude": 32.88677978515625,
+                    "Longitude": -79.89044189453125,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "LeftOfGreen",
+                    "Latitude": 32.8869513884934,
+                    "Longitude": -79.890421779684473,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "BackOfGreen1",
+                    "Latitude": 32.8869513884934,
+                    "Longitude": -79.890421779684473,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "RightOfGreen",
+                    "Latitude": 32.886615186831015,
+                    "Longitude": -79.890448819735823,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "FrontOfGreen",
+                    "Latitude": 32.886615186831015,
+                    "Longitude": -79.890448819735823,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                }
+            ],
+            "PinPlacements": [
+                {
+                    "Name": "1",
+                    "Latitude": 32.886678365198257,
+                    "Longitude": -79.89044079688199,
+                    "Usage": 1,
+                    "X": 472,
+                    "Y": 347
+                },
+                {
+                    "Name": "2",
+                    "Latitude": 32.886794017558572,
+                    "Longitude": -79.890383995690115,
+                    "Usage": 1,
+                    "X": 436,
+                    "Y": 244
+                },
+                {
+                    "Name": "3",
+                    "Latitude": 32.886872072663614,
+                    "Longitude": -79.8903869003588,
+                    "Usage": 1,
+                    "X": 389,
+                    "Y": 195
+                },
+                {
+                    "Name": "4",
+                    "Latitude": 32.886770020682079,
+                    "Longitude": -79.890533235513843,
+                    "Usage": 1,
+                    "X": 369,
+                    "Y": 333
+                },
+                {
+                    "Name": "5",
+                    "Latitude": 32.886776788036151,
+                    "Longitude": -79.8904318476461,
+                    "Usage": 1,
+                    "X": 420,
+                    "Y": 279
+                },
+                {
+                    "Name": "6",
+                    "Latitude": 32.886848584741017,
+                    "Longitude": -79.890341130919268,
+                    "Usage": 1,
+                    "X": 427,
+                    "Y": 188
+                }
+            ],
+            "WorldToImageTransform": "541193.129637341,-491883.21156662,-581580.676628371,-643231.892048015,62362886.7525548,-18142659.6571426",
+            "GreenUpperLeft": "-79.8904500433691,32.8869960263734",
+            "GreenLowerRight": "-79.8904243336884,32.8865652147059"
+        },
+        {
+            "Course": 2,
+            "Hole": 14,
+            "HoleDataId": 1121,
+            "PoiData": [
+                {
+                    "Name": "CenterOfGreen",
+                    "Latitude": 32.888187408447266,
+                    "Longitude": -79.893463134765625,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "LeftOfGreen",
+                    "Latitude": 32.888189726674284,
+                    "Longitude": -79.893659052667829,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "BackOfGreen1",
+                    "Latitude": 32.888189726674284,
+                    "Longitude": -79.893659052667829,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "RightOfGreen",
+                    "Latitude": 32.88816525822331,
+                    "Longitude": -79.893262290064158,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "FrontOfGreen",
+                    "Latitude": 32.88816525822331,
+                    "Longitude": -79.893262290064158,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                }
+            ],
+            "PinPlacements": [
+                {
+                    "Name": "1",
+                    "Latitude": 32.888156778391959,
+                    "Longitude": -79.893474552947,
+                    "Usage": 1,
+                    "X": 368,
+                    "Y": 277
+                },
+                {
+                    "Name": "2",
+                    "Latitude": 32.888243549337453,
+                    "Longitude": -79.89352884538765,
+                    "Usage": 1,
+                    "X": 400,
+                    "Y": 191
+                },
+                {
+                    "Name": "3",
+                    "Latitude": 32.888172866864629,
+                    "Longitude": -79.893337814112414,
+                    "Usage": 1,
+                    "X": 451,
+                    "Y": 349
+                },
+                {
+                    "Name": "4",
+                    "Latitude": 32.888240328595764,
+                    "Longitude": -79.893441722990332,
+                    "Usage": 1,
+                    "X": 444,
+                    "Y": 245
+                },
+                {
+                    "Name": "5",
+                    "Latitude": 32.888195226536105,
+                    "Longitude": -79.893581948101072,
+                    "Usage": 1,
+                    "X": 338,
+                    "Y": 189
+                },
+                {
+                    "Name": "6",
+                    "Latitude": 32.888120234522546,
+                    "Longitude": -79.893381374358924,
+                    "Usage": 1,
+                    "X": 391,
+                    "Y": 355
+                }
+            ],
+            "WorldToImageTransform": "525143.561359636,595586.321359407,700191.415142466,-620517.841792418,18927906.5876592,67991425.7404602",
+            "GreenUpperLeft": "-79.8937124717109,32.888170204738",
+            "GreenLowerRight": "-79.8931973788554,32.8881976782809"
+        },
+        {
+            "Course": 2,
+            "Hole": 15,
+            "HoleDataId": 1122,
+            "PoiData": [
+                {
+                    "Name": "CenterOfGreen",
+                    "Latitude": 32.888912200927734,
+                    "Longitude": -79.894660949707031,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "LeftOfGreen",
+                    "Latitude": 32.889009897926357,
+                    "Longitude": -79.894865850277625,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "BackOfGreen1",
+                    "Latitude": 32.889009897926357,
+                    "Longitude": -79.894865850277625,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "RightOfGreen",
+                    "Latitude": 32.888794646572272,
+                    "Longitude": -79.89447484878643,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "FrontOfGreen",
+                    "Latitude": 32.888794646572272,
+                    "Longitude": -79.89447484878643,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                }
+            ],
+            "PinPlacements": [
+                {
+                    "Name": "1",
+                    "Latitude": 32.888988365056811,
+                    "Longitude": -79.89458727123619,
+                    "Usage": 1,
+                    "X": 518,
+                    "Y": 209
+                },
+                {
+                    "Name": "2",
+                    "Latitude": 32.88880103327056,
+                    "Longitude": -79.894675293278141,
+                    "Usage": 1,
+                    "X": 430,
+                    "Y": 330
+                },
+                {
+                    "Name": "3",
+                    "Latitude": 32.88893108425728,
+                    "Longitude": -79.894670781088323,
+                    "Usage": 1,
+                    "X": 457,
+                    "Y": 237
+                },
+                {
+                    "Name": "4",
+                    "Latitude": 32.889021301845432,
+                    "Longitude": -79.894628669726387,
+                    "Usage": 1,
+                    "X": 499,
+                    "Y": 179
+                },
+                {
+                    "Name": "5",
+                    "Latitude": 32.888872017373735,
+                    "Longitude": -79.894607740841423,
+                    "Usage": 1,
+                    "X": 484,
+                    "Y": 290
+                },
+                {
+                    "Name": "6",
+                    "Latitude": 32.888866057951212,
+                    "Longitude": -79.894775489750188,
+                    "Usage": 1,
+                    "X": 381,
+                    "Y": 268
+                }
+            ],
+            "WorldToImageTransform": "608035.16180319,155324.413541425,184795.000155579,-722520.305686507,42501515.8630323,36172750.6525526",
+            "GreenUpperLeft": "-79.894932093166,32.8890299063915",
+            "GreenLowerRight": "-79.8944106533595,32.8887697306803"
+        },
+        {
+            "Course": 2,
+            "Hole": 16,
+            "HoleDataId": 1123,
+            "PoiData": [
+                {
+                    "Name": "CenterOfGreen",
+                    "Latitude": 32.885784149169922,
+                    "Longitude": -79.897499084472656,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "LeftOfGreen",
+                    "Latitude": 32.885691897304213,
+                    "Longitude": -79.897308900404667,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "BackOfGreen1",
+                    "Latitude": 32.885691897304213,
+                    "Longitude": -79.897308900404667,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "RightOfGreen",
+                    "Latitude": 32.885901854306809,
+                    "Longitude": -79.897694971436366,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "FrontOfGreen",
+                    "Latitude": 32.885901854306809,
+                    "Longitude": -79.897694971436366,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                }
+            ],
+            "PinPlacements": [
+                {
+                    "Name": "1",
+                    "Latitude": 32.8858805227657,
+                    "Longitude": -79.897579717769517,
+                    "Usage": 1,
+                    "X": 399,
+                    "Y": 407
+                },
+                {
+                    "Name": "2",
+                    "Latitude": 32.885742278316762,
+                    "Longitude": -79.897520670283413,
+                    "Usage": 1,
+                    "X": 393,
+                    "Y": 274
+                },
+                {
+                    "Name": "3",
+                    "Latitude": 32.88580814060262,
+                    "Longitude": -79.8973947808229,
+                    "Usage": 1,
+                    "X": 283,
+                    "Y": 303
+                },
+                {
+                    "Name": "4",
+                    "Latitude": 32.885842950468408,
+                    "Longitude": -79.8976306220449,
+                    "Usage": 1,
+                    "X": 447,
+                    "Y": 386
+                },
+                {
+                    "Name": "5",
+                    "Latitude": 32.885817504123168,
+                    "Longitude": -79.897510287925314,
+                    "Usage": 1,
+                    "X": 365,
+                    "Y": 337
+                },
+                {
+                    "Name": "6",
+                    "Latitude": 32.885695895818806,
+                    "Longitude": -79.89744165452683,
+                    "Usage": 1,
+                    "X": 347,
+                    "Y": 216
+                }
+            ],
+            "WorldToImageTransform": "-733442.673298549,-226439.752564397,-266706.426648837,869320.429374203,-49829019.5835765,-46679948.5919041",
+            "GreenUpperLeft": "-79.8972578703136,32.8856834059566",
+            "GreenLowerRight": "-79.8977516592898,32.8859037814273"
+        },
+        {
+            "Course": 2,
+            "Hole": 17,
+            "HoleDataId": 1124,
+            "PoiData": [
+                {
+                    "Name": "CenterOfGreen",
+                    "Latitude": 32.888118743896484,
+                    "Longitude": -79.9006576538086,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "LeftOfGreen",
+                    "Latitude": 32.888135188357147,
+                    "Longitude": -79.900878484392763,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "BackOfGreen1",
+                    "Latitude": 32.888135188357147,
+                    "Longitude": -79.900878484392763,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "RightOfGreen",
+                    "Latitude": 32.888132389625966,
+                    "Longitude": -79.9004007855093,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "FrontOfGreen",
+                    "Latitude": 32.888132389625966,
+                    "Longitude": -79.9004007855093,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                }
+            ],
+            "PinPlacements": [
+                {
+                    "Name": "1",
+                    "Latitude": 32.888225816804216,
+                    "Longitude": -79.9005879181382,
+                    "Usage": 1,
+                    "X": 455,
+                    "Y": 221
+                },
+                {
+                    "Name": "2",
+                    "Latitude": 32.888121305413691,
+                    "Longitude": -79.900795701722259,
+                    "Usage": 1,
+                    "X": 325,
+                    "Y": 204
+                },
+                {
+                    "Name": "3",
+                    "Latitude": 32.888130568774848,
+                    "Longitude": -79.900519572242558,
+                    "Usage": 1,
+                    "X": 447,
+                    "Y": 292
+                },
+                {
+                    "Name": "4",
+                    "Latitude": 32.888074065824036,
+                    "Longitude": -79.900604129425659,
+                    "Usage": 1,
+                    "X": 388,
+                    "Y": 292
+                },
+                {
+                    "Name": "5",
+                    "Latitude": 32.888168245420992,
+                    "Longitude": -79.900691441760344,
+                    "Usage": 1,
+                    "X": 388,
+                    "Y": 215
+                },
+                {
+                    "Name": "6",
+                    "Latitude": 32.888035559371268,
+                    "Longitude": -79.900681756735764,
+                    "Usage": 1,
+                    "X": 340,
+                    "Y": 285
+                }
+            ],
+            "WorldToImageTransform": "427580.766516427,336424.664073884,396403.00229198,-505940.967675406,21127418.4695453,43520249.9914037",
+            "GreenUpperLeft": "-79.9009541626263,32.8881601512372",
+            "GreenLowerRight": "-79.9003241167516,32.888096503085"
+        },
+        {
+            "Course": 2,
+            "Hole": 18,
+            "HoleDataId": 1125,
+            "PoiData": [
+                {
+                    "Name": "CenterOfGreen",
+                    "Latitude": 32.886093139648438,
+                    "Longitude": -79.906005859375,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "LeftOfGreen",
+                    "Latitude": 32.885988888667391,
+                    "Longitude": -79.90614916666938,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "BackOfGreen1",
+                    "Latitude": 32.885988888667391,
+                    "Longitude": -79.90614916666938,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "RightOfGreen",
+                    "Latitude": 32.886252795618176,
+                    "Longitude": -79.905799830649073,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                },
+                {
+                    "Name": "FrontOfGreen",
+                    "Latitude": 32.886252795618176,
+                    "Longitude": -79.905799830649073,
+                    "Usage": 0,
+                    "X": 0,
+                    "Y": 0
+                }
+            ],
+            "PinPlacements": [
+                {
+                    "Name": "1",
+                    "Latitude": 32.886061703791015,
+                    "Longitude": -79.905884980640792,
+                    "Usage": 1,
+                    "X": 326,
+                    "Y": 336
+                },
+                {
+                    "Name": "2",
+                    "Latitude": 32.886132928333978,
+                    "Longitude": -79.906111043848767,
+                    "Usage": 1,
+                    "X": 396,
+                    "Y": 173
+                },
+                {
+                    "Name": "3",
+                    "Latitude": 32.886078117725667,
+                    "Longitude": -79.906020164892865,
+                    "Usage": 1,
+                    "X": 345,
+                    "Y": 238
+                },
+                {
+                    "Name": "4",
+                    "Latitude": 32.886190057652847,
+                    "Longitude": -79.90606077488782,
+                    "Usage": 1,
+                    "X": 444,
+                    "Y": 212
+                },
+                {
+                    "Name": "5",
+                    "Latitude": 32.886082888212314,
+                    "Longitude": -79.90582427912814,
+                    "Usage": 1,
+                    "X": 343,
+                    "Y": 381
+                },
+                {
+                    "Name": "6",
+                    "Latitude": 32.886028820182929,
+                    "Longitude": -79.906019543455187,
+                    "Usage": 1,
+                    "X": 302,
+                    "Y": 237
+                }
+            ],
+            "WorldToImageTransform": "-32494.0399819089,732513.492791777,869215.569610803,33296.0678542015,-31181215.4888939,57437498.6797004",
+            "GreenUpperLeft": "-79.9061760655457,32.8859503230244",
+            "GreenLowerRight": "-79.9057940157752,32.8862999630935"
+        }
+    ],
+    "RotationDays": {
+        "RotateDays": [
+            {
+                "Key": "Sunday",
+                "Value": true
+            },
+            {
+                "Key": "Monday",
+                "Value": true
+            },
+            {
+                "Key": "Tuesday",
+                "Value": true
+            },
+            {
+                "Key": "Wednesday",
+                "Value": true
+            },
+            {
+                "Key": "Thursday",
+                "Value": true
+            },
+            {
+                "Key": "Friday",
+                "Value": true
+            },
+            {
+                "Key": "Saturday",
+                "Value": true
+            }
+        ],
+        "Course": 2,
+        "Rotate": false,
+        "RotationDays": 127
+    }
+}
